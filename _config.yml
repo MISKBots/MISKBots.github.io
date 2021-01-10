@@ -70,8 +70,7 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
-header:
-  teaser: /assets/images/MiskBotsLogo.jpeg
+logo: /assets/images/MiskBotsLogo.jpeg
 
 
 footer:

@@ -1,7 +1,7 @@
 ---
 title: "Project Showcase"
 layout: home
-permalink: /Project Showcase/
+permalink: /ProjectShowcase/
 author_profile: true
 ---
 

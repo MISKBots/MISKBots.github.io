@@ -71,6 +71,20 @@ Biomedical Engineering Department
     <a href="/assets/images/4.jpeg"><img src="/assets/images/4.jpeg"></a>
     <figcaption>Phase 2 – Coordinates extracted from DICOM image.</figcaption>
 </figure>
+<figure>
+    <a href="/assets/images/3.jpeg"><img src="/assets/images/3.jpeg"></a>
+    <figcaption>Phase 3 – Biomarkers incorporated onto coordinates.</figcaption>
+</figure>
+<figure>
+    <a href="/assets/images/2.jpeg"><img src="/assets/images/2.jpeg"></a>
+    <figcaption>Phase 4 – Raman endoscope with nanobots inserted into
+ROI (esophagus).</figcaption>
+</figure>
+<figure>
+    <a href="/assets/images/1.jpeg"><img src="/assets/images/1.jpeg"></a>
+    <figcaption>Phase 5 – Detection of biomarkers by nanobots while
+moving on the basis of principles.</figcaption>
+</figure>
 
 # Video
 {% include video id="M_3UgGDolJU" provider="youtube" %}

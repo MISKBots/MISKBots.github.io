@@ -1,7 +1,7 @@
 ---
 title: "Project Showcase"
-layout: home
-permalink: /ProjectShowcase/
+layout: splash
+permalink: /home/
 author_profile: true
 ---
 

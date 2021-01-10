@@ -1,6 +1,6 @@
 ---
 title: "Project Showcase"
-layout: splash
+layout: home
 permalink: /
 author_profile: true
 ---

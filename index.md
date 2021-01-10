@@ -65,3 +65,8 @@ Biomedical Engineering Department
 # Supervisor Name
 * Engr. Tooba Arshad
 * Dr. Bilal A. Usmani
+
+# Video
+<video width="480" height="320" controls="controls">
+  <source src="https://uafa.neduet.edu.pk/FYPs_2020/Biomedical%20Engineering%20Dept/FYP2_Department%20of%20Biomedical%20Engineering/FYP2.mp4" type="video/mp4">
+</video>

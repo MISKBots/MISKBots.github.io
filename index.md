@@ -66,5 +66,11 @@ Biomedical Engineering Department
 * Engr. Tooba Arshad
 * Dr. Bilal A. Usmani
 
+# Pictures
+<figure>
+    <a href="/assets/images/4.jpeg"><img src="/assets/images/4.jpeg"></a>
+    <figcaption>Phase 2 – Coordinates extracted from DICOM image.</figcaption>
+</figure>
+
 # Video
 {% include video id="M_3UgGDolJU" provider="youtube" %}
